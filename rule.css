@@ -1,0 +1,58 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 04-Sep-2023, 10:22:28 pm
+    Author     : hp
+*/
+
+.a{
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    
+}
+.b{
+    background-color: rgb(255,216,20);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+   
+}
+.c{
+    background-color: rgb(46,164,79);
+    color: white;
+    padding:8px;
+    border-radius: 5px;
+    border: none;
+}
+.d{
+    background-color: rgb(121,82,179);
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+}
+#e{
+    background-color: white;
+    color: rgb(108,117,125);
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid rgb(108,117,125);
+}
+#f{
+    background-color: rgb(10,102,194);
+    color: white;
+    padding: 12px;
+    border-radius: 25px;
+    border: none;
+}
+#g{
+    color: rgb(10,102,194);
+    border: 1px solid rgb(10,102,194);
+    padding: 10px 20px;
+    border-radius: 25px;
+}
